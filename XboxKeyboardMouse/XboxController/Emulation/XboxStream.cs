@@ -30,7 +30,7 @@ namespace XboxKeyboardMouse
         public static Thread tMouseMovement;
 
         private static readonly string[] defaultAppNames = {
-            "Xbox",
+            "Xbox Game Streaming (Test App)",
             "Xbox Console Companion",
             "Xbox Console Companion - Beta",
             "Xbox Companion-console",
