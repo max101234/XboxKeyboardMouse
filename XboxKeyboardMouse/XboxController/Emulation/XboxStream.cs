@@ -50,7 +50,7 @@ namespace XboxKeyboardMouse
             "Xboxi konsooliabiline - beetaversioon",
             "„Xbox“ konsolės pagalbinė priemonė",
             "„Xbox“ konsolės pagalbinė priemonė - beta versija",
-            "Compagnon de la console Xbox",
+            "Xbox Game Streaming (Test App)",
             "Compagnon de la console Xbox - bêta",
             "Compañero de la consola Xbox",
             "Compañero de la consola Xbox - beta",
